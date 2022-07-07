@@ -1,13 +1,4 @@
-### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elvybean&show_icons=true&theme=tokyonight) 
 
-<!-- **elvybean/elvybean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🔭 I’m currently working on ... [yandiya-cbm-library](https://github.com/elvybean/yandiya-cbm-library)
-- 🌱 I’m currently learning ... python
-- 👯 I’m looking to collaborate on ... n/a
-- 🤔 I’m looking for help with ... n/a
-- 💬 Ask me about ... n/a
-- 📫 How to reach me: ... n/a
-- 😄 Pronouns: ... n/a
-- ⚡ Fun fact: ... n/a
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&theme=tokyonight)
 
