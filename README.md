@@ -4,9 +4,9 @@
 </a>
 -->
 <a href="#">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elvybean"/>
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=elvybean"/>
 </a>
   
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&layout=compact&count_private=true" />
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&layout=compact&count_private=true" />
 </a>
