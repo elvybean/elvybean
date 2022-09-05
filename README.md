@@ -3,10 +3,15 @@
 </a>
 
 <a href="#">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&layout=compact&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&count_private=true"/>
 </a>
 
 <!--
+
+<a href="#">
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&layout=compact&count_private=true" />
+</a>
+
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=elvybean&count_private=true&show_icons=true" />
