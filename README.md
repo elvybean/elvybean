@@ -17,5 +17,9 @@
 <img src="https://github.com/elvybean/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="elvisoberoatkins" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/elvisoberoatkins?trk=profile-badge">Elvis Obero-Atkins</a></div>
+
 -->
+              
+              
 
