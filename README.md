@@ -1,5 +1,7 @@
 # Hey There! 👋
-**I'm Elvis (he/him)** - I'm a Computer Science Major at the University of the West of England, Bristol & an Aspiring Software Engineer.
+**I'm Elvis (he/him)** - I'm a Computer Science Major at the University of the West of England, Bristol & an Aspiring Software Engineer. I have 7 years experience studying computer science based courses which has allowed me develop my programming knowledge, skill and ability. 
+
+I have experience as a Junior Software Developer Intern and I am currently enrolled at the University of the West of England Bristol where I'm studying towards a Bachelor's of Science in Computer Science (with Placement Year).
 
 <!-- Source is https://github.com/tandpfun/skill-icons -->
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,py,c,cpp)](https://skillicons.dev)<br/>
