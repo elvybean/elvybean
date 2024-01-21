@@ -17,7 +17,14 @@ Between my time at secondary school, college and university I have 7 years exper
 
 <!-- Add Image sheilds (img.shields.io) for Status, Gaming?, Spotify and VSCode -->
 
-### Github Stats⚡
+## Spotify🎵
+
+<a href="#">
+<!-- Source is https://github.com/kittinan/spotify-github-profile -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</a>
+
+## Github Stats⚡
 
 <a href="#">
 <!-- Source is https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -28,11 +35,3 @@ Between my time at secondary school, college and university I have 7 years exper
 <!-- Source is https://github.com/anuraghazra/github-readme-stats -->
 <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=pie&theme=shades-of-purple"/>
 </a>
-
-### Spotify🎵
-
-<a href="#">
-<!-- Source is https://github.com/kittinan/spotify-github-profile -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</a>
-
