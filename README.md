@@ -26,7 +26,7 @@ Between my time at secondary school, college and university I have 7 years exper
 
 <!-- Source is https://github.com/anuraghazra/github-readme-stats -->
 <a href="#">
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=pie&theme=shades-of-purple&count_private=true"/>
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=pie&theme=shades-of-purple"/>
 </a>
 
 
