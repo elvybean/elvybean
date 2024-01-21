@@ -17,7 +17,7 @@ Between my time at secondary school, college and university I have 7 years exper
 
 <!-- Add Image sheilds (img.shields.io) for Status, Gaming?, Spotify and VSCode -->
 
-## Spotify Currently Listening to🎵
+## Spotify 🎵
 
 <a href="#">
 <!-- Source is https://github.com/kittinan/spotify-github-profile -->
