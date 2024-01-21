@@ -21,7 +21,7 @@ Between my time at secondary school, college and university I have 7 years exper
 
 <a href="#">
 <!-- Source is https://github.com/kittinan/spotify-github-profile -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
 
 ## Github Stats⚡
