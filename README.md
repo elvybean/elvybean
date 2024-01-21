@@ -21,7 +21,7 @@ Between my time at secondary school, college and university I have 7 years exper
 
 <!-- Source is https://github.com/DenverCoder1/github-readme-streak-stats -->
 <a href="#">
-<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple"/>
+<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 </a>
 
 <!-- Source is https://github.com/anuraghazra/github-readme-stats -->
