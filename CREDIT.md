@@ -21,23 +21,17 @@ The spotify widget is from [kittinan/spotify-github-profile](https://github.com/
 ## Github Commit Streak
 The Github commit streak is from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
-<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true&card_width=450"/>
+<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 
 ```
-<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true&card_width=450"/>
+<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 ```
 
-## Github Stats & Langauge Usage
-The Github Stats & Langauge usage are from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+## Github Langauge Usage
+The Github Langauge usage is from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-<img src="https://github-readme-stats.vercel.app/api?username=elvybean&&theme=shades-of-purple&count_private=true"/>
-
-```
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&&theme=shades-of-purple&count_private=true"/>
-```
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=donut-vertical&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 
 ```
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=donut-vertical&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 ```
