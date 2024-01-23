@@ -17,7 +17,7 @@ Between my time at secondary school, college and university I have 7 years exper
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=elvis_arry03&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 
 ## Github Stats⚡
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=pie&theme=shades-of-purple"/>
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=donut&theme=shades-of-purple&count_private=true"/>
 <img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 
 </a>
