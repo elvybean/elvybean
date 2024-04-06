@@ -24,7 +24,7 @@ The Github commit streak is from [DenverCoder1/github-readme-streak-stats](https
 <img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
 
 ```
-<img src="https://streak-stats.demolab.com?user=elvybean&theme=shades-of-purple&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=shades-of-purple&count_private=true"/>
 ```
 
 ## Github Langauge Usage
@@ -33,5 +33,5 @@ The Github Langauge usage is from [anuraghazra/github-readme-stats](https://gith
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 
 ```
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvybean&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&&layout=compact&theme=shades-of-purple&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 ```
